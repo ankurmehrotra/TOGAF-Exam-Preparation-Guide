@@ -3,7 +3,7 @@
 This page is setup to help fellow Adobe Campaign developers and users in some common and not so common challenges during development. This is not an official guide.
 I have been working with Adobe Campaign for multiple years, and yet every few days I need to either find answers to new questions or learn from some amazing colleagues who know a better way.
 
-Feel free to browse and find answers. If you like my work and if it was helpful to you, you can buy me a coffee! [Link](https://www.buymeacoffee.com/ankurmehrotra)
+Feel free to browse and find answers. If you like my work and if it was helpful to you, you can buy me a coffee! [![Image](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/ankurmehrotra)
 
 
 ### Markdown
