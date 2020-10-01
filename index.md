@@ -3,8 +3,8 @@
 This page is setup to help fellow Adobe Campaign developers and users in some common and not so common challenges during development. This is not an official guide.
 I have been working with Adobe Campaign for multiple years, and yet every few days I need to either find answers to new questions or learn from some amazing colleagues who know a better way.
 
-Feel free to browse and find answers. If you like my work and if it was helpful to you, you can buy me a coffee!
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ankurmehrotra" data-color="#FF813F" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000" data-font-color="#fff" data-coffee-color="#fd0" ></script>
+Feel free to browse and find answers. If you like my work and if it was helpful to you, you can buy me a coffee! [Link](https://www.buymeacoffee.com/ankurmehrotra)
+
 
 ### Markdown
 
