@@ -41,3 +41,22 @@ Notes:
 5. Architecture activity scope can be constrained due to resource, people or finance availibility.
 6. Scoping of architecture activity can be limited by : Breadth, Domains (Business, data, technology, application), Depth (enterprise to capability level) or time.
 
+# ADM In detail (from the view of inputs and outputs)
+
+
+# Enterprise continuum (part V of framework)
+A model for structuring a virtual repository and methods for classifying architecture and solution artifacts. It really becomes the Architecture repository.
+It promotes reuse, and common language.
+It can be split into:
+1. Architecture Continuum: Foundational architectures to common system architectures to industry specific architectures (generic to specific)
+2. Solutions Continuum: Foundation Solutions to common system solutions to industry specific (Generic to specific). They form a solution inventory or reuse library for the org.
+
+Now Architectures support solutions and vice versa.
+The Continuum:
+o contains complete and work‐in‐progress solutions
+o is a "framework‐within‐a‐framework”
+o has few internal assets, at first
+o grows by adding reusable building blocks
+
+One word on tools: They are used to manage artifacts in continuum
+
