@@ -30,4 +30,14 @@ Each Phase will be learned in the next notes, every phase has its own Objectives
 
 All this while, we continue to validate against requirements.
 
-Now we go in depth of ADM, and start looking at those Phases in detail.
+
+![image](https://user-images.githubusercontent.com/15048072/146609146-16ebddba-7e49-4cdf-bdd1-3042fc46350f.png)
+
+Notes:
+1. ADM Phases has Inputs and Output deliverables, some phases modify outputs from older phases.
+2. Versions like 0.1 indicate documents are still outline stage, while higher versions like v1.0 indicate formally reviewed deliverable (this is a question!)
+3. ADM can be adapted, based on industry, vertical or geographies.
+4. ADM Must be governed by an Architecture Board, which needs a Governance Repository to manage artifacts, reference data, process data and audit info.
+5. Architecture activity scope can be constrained due to resource, people or finance availibility.
+6. Scoping of architecture activity can be limited by : Breadth, Domains (Business, data, technology, application), Depth (enterprise to capability level) or time.
+
