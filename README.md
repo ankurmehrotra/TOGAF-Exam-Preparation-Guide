@@ -56,6 +56,17 @@ Notes:
 # ADM Preliminary Phase
 
 
+
+# Architecture Content Framework (Part IV)
+It gives a list of outputs
+Four key words to know:
+1. Deliverables: Formal products, they are contractually specified, can contain many artifacts.
+2. Artifacts: Fine products which describe architecture from a viewpoint. Examples: Use cases,diagrams,architecture requirements. Catalogs (list of things), Matrices (relationships),Diagrams (pictures)
+3. ABB or Architecture Building blocks : Components which can be combined with others to deliver architectures or solns. Its architecture documentation and used mostly in Phase A,B,C,D
+
+So how does Content framework map to the ADM? While ADM describes what work should be done to create architecture, the Content framework describes how it should look like
+
+
 # Enterprise continuum (part V of framework)
 A model for structuring a virtual repository and methods for classifying architecture and solution artifacts. It really becomes the Architecture repository.
 It promotes reuse, and common language.
@@ -72,8 +83,4 @@ o grows by adding reusable building blocks
 
 One word on tools: They are used to manage artifacts in continuum
 
-# Architecture Content Framework
-Four key words to know:
-1. Deliverables: Formal products, they are contractually specified, can contain many artifacts.
-2. Artifacts: Fine products which describe architecture from a viewpoint. Examples: Use cases,diagrams,architecture requirements. Catalogs (list of things), Matrices (relationships),Diagrams (pictures)
-3. ABB or Architecture Building blocks : Components which can be combined with others to deliver architectures or solns. Its architecture documentation and used mostly in Phase A,B,C,D
+_Architecture Repository_
