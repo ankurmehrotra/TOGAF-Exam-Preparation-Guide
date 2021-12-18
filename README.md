@@ -13,6 +13,15 @@ fit together
 
 ** Quick Summary: TOGAF Framework has 6 parts to it, and one of the is ADM. ADM by itself has Preliminary phase and Phases A to H.**
 
+# TOGAF Framework
+It has 6 parts, 
+1. ADM - Development Method, read below for more detail on it.
+2. ADM Guidelines and techniques - Guidelines help adapt ADM, Technique support specific tasks of ADM like task planning, gap analysis etc...
+3. Architecture content framework: Detailed model of work products i.e. artifacts and deliverables and the Architecture Building blocks these deliverables represent
+4. Enterprise continuum: Repository for future reuse
+5. Architecture capability framework: Provides guidance for establishing an architecture practice in a company, what capabilities they should include
+6. TOGAF Library: Providea templates, guidance and technique to help implement togaf.
+
 Each Phase will be learned in the next notes, every phase has its own Objectives, input, output and steps. This is what is usually referred in questions.
 
 # ADM
@@ -40,8 +49,11 @@ Notes:
 4. ADM Must be governed by an Architecture Board, which needs a Governance Repository to manage artifacts, reference data, process data and audit info.
 5. Architecture activity scope can be constrained due to resource, people or finance availibility.
 6. Scoping of architecture activity can be limited by : Breadth, Domains (Business, data, technology, application), Depth (enterprise to capability level) or time.
+7. Architecture can haves levels like Strategic (highest), Segment and Capability (lowest)
 
-# ADM In detail (from the view of inputs and outputs)
+# ADM In detail (from the view of Objectives and Approach)
+
+# ADM Preliminary Phase
 
 
 # Enterprise continuum (part V of framework)
