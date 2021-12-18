@@ -72,3 +72,8 @@ o grows by adding reusable building blocks
 
 One word on tools: They are used to manage artifacts in continuum
 
+# Architecture Content Framework
+Four key words to know:
+1. Deliverables: Formal products, they are contractually specified, can contain many artifacts.
+2. Artifacts: Fine products which describe architecture from a viewpoint. Examples: Use cases,diagrams,architecture requirements. Catalogs (list of things), Matrices (relationships),Diagrams (pictures)
+3. ABB or Architecture Building blocks : Components which can be combined with others to deliver architectures or solns. Its architecture documentation and used mostly in Phase A,B,C,D
