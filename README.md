@@ -18,9 +18,9 @@ It has 6 parts,
 1. ADM - Development Method, read below for more detail on it.
 2. ADM Guidelines and techniques - Guidelines help adapt ADM, Technique support specific tasks of ADM like task planning, gap analysis etc...
 3. Architecture content framework: Detailed model of work products i.e. artifacts and deliverables and the Architecture Building blocks these deliverables represent
-4. Enterprise continuum: Repository for future reuse
-5. Architecture capability framework: Provides guidance for establishing an architecture practice in a company, what capabilities they should include
-6. TOGAF Library: Providea templates, guidance and technique to help implement togaf.
+4. Enterprise continuum: Repository for future reuse, how to establish it.
+5. Architecture capability framework: Provides guidance for establishing an architecture practice in a company, what capabilities they should include, what roles and skills.
+6. TOGAF Library: Provides templates, guidance and technique to help implement togaf. Reference Library.
 
 Each Phase will be learned in the next notes, every phase has its own Objectives, input, output and steps. This is what is usually referred in questions.
 
