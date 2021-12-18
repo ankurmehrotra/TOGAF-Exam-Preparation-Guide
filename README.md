@@ -84,3 +84,13 @@ o grows by adding reusable building blocks
 One word on tools: They are used to manage artifacts in continuum
 
 _Architecture Repository_
+1. Architecture Metamodel describes the architecture framework in use within the
+Enterprise
+2. Architecture Landscape: shows the state of the operating Enterprise at particular points in time (Strategic, segment or capability)
+3. Reference Library: contains re usable architecture work products
+4. Standards Information Base: defines the compliance criteria for work governed by  archiecture
+5. Governance Log: captures results of governance activity
+6. Architecture Capability: describes the organisation, roles, skills and responsibilities of the Enterprise Architecture practice
+7. Architecture Requirements Repository: provides a view of all authorized architecture requirements which have been agreed with the Architecture Board
+8. Solutions Landscape: presents an architectural representation of the SBBs supporting the Architecture Landscape which have been planned or deployed by the enterprise
+
