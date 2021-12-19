@@ -55,6 +55,29 @@ Notes:
 
 # ADM Preliminary Phase
 
+**Goal**: Create request for Architecture Work (for an identified architecture capability)
+**Activities**?
+1. Understand business environment
+2. Get committment from management
+3. Agree on SCOPE
+4. Establish Architecture Principles (Read Page 201 in personal Member edition)
+5. Establish Governance structure
+6. Customization of togaf framework
+
+**Architecture principles** are an initial input of Preliminary phase. TOGAF gives guidelines to make principles and some generic principles to start with. Two domains of principles: Architecture and Enterprise.
+
+# Phase A: Architecture Vision
+Goal: Create draft architecture definition document.
+What happens in this phase?
+1. Initiates one iteration of architecture process.
+2. Creates architecture vision (note, vision is Phase A and not preliminary) - Its a high level vision
+3. Create Statement of architecture work (and get approval)
+4. Create Comms. plan
+5. Create draft architecture definition document (it has purpose, how it will be achieved, high level desccription of baseline and target, business scenarios)
+
+So largely this phase defines the Scope Of architecture activity.
+
+# Phase B: Business Architecture
 
 
 # Architecture Content Framework (Part IV)
