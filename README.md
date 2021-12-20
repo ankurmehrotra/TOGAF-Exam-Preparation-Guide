@@ -64,7 +64,7 @@ Notes:
 5. Establish Governance structure
 6. Customization of togaf framework
 
-**Architecture principles** are an initial input of Preliminary phase. TOGAF gives guidelines to make principles and some generic principles to start with. Two domains of principles: Architecture and Enterprise.
+**Architecture principles** are an initial input of Preliminary phase. TOGAF gives guidelines to make principles and some generic principles to start with. Two domains of principles: Architecture and Enterprise. Remember the key headings on principles for the exam and what is difference between Rationale and Implications. Finally, these are written to "Guide decision making within an enterprise".
 
 # Phase A: Architecture Vision
 Goal: Create draft architecture definition document.
