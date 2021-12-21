@@ -129,7 +129,13 @@ Idealy requirement repository should be maintained, in this stage no prioritizat
 
 # ADM Guidelines and Techniques
 
+We focus on some techniques only, as questions ask about their definition:
+1. **Business Scenarios:** An Architecture can only be successful if it meets requirments, and supports business objectives. This technique helps identify and understand business requirements that architecture must do. A business scenario describes business/tech environments, or process or applications which architecture exercise targets. It also describes actors involved and outcomes. Used mostly in phase A, but also shows up in others.
+2. **Business Transformation Readiness Assessment**: This is a readiness assessment done in Phase A, to check if the Enterprise can do the architecture change. Its a join cross team effort. Its actions are usually done in Phase E and F.
+3. **Capability Based Planning** : Planning engineering and delivery of capabilites. It is done across the board and connecs all phases.
+4. **Risk Management:** This a flow of identifying, classifying, planning mitigation and monitoring. Monitoring is done in Phase G (implementation governance).
 
+# Architecture Governance 
 
 # Architecture Content Framework (Part IV)
 It gives a list of outputs
