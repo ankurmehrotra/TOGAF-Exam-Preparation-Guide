@@ -1,6 +1,7 @@
 # TOGAF Certification Exam Preparation Guide and Notes
 Purpose: This document is created for preparation of TOGAF certification notes (9.2). This is done for self study, completeness and accuracy are not guaranteed.
 
+If you found my notes useful, you can <a href="https://www.buymeacoffee.com/ankurmehrotra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
 # What is an architecture framework
