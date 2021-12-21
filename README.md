@@ -78,6 +78,56 @@ What happens in this phase?
 So largely this phase defines the Scope Of architecture activity.
 
 # Phase B: Business Architecture
+Goal: Create Draft Architecture requirement specification document.
+
+Other goals: Create target business architecture  that describes how the enterpise need to operate to achieve its goals. Also identify components for architecture roadmap from baseline to target.
+If baseline does not exist already in any repository, then make this too!
+Techniques: Business Capability Maps, Organization Maps,Value streams
+Role of Architecture repository : The team needs to determine what is to be picked from repository (Standards, building blocks, industry specific architecture, or business architecture views)
+
+# Phase C: Information Systems architecture
+Goal: Develop the Target Information Systems (Data and Application) Architecture, describing how the enterprise's Information Systems Architecture will enable the Business
+Architecture and the Architecture Vision, in a way that addresses the Statement for Architecture Work and stakeholder concerns
+
+Approach
+This Phase has both data and application architecture, does not matter which goes first.
+
+# Phase D: Technology Architecture
+Goal: Develop the Target Technology Architecture that enables the Architecture Vision, target business, data, and application building blocks to be delivered through technology components and technology services, in a way that addresses the Statement of Architecture Work stakeholder concerns
+• Identify candidate Architecture Roadmap components based upon gaps
+between the Baseline and Target Technology Architectures
+
+Approach: 
+Review repository, including TRF or existing ITIL repository. COnsider for new technological opportunities.
+
+# Phase E: Opportunities and Solutions
+Goal; To create architecture roadmap, implementation and migration plan
+Also, break down the work to solution building blocks, the changes are grouped into work packages.
+
+# Phase F: Migration Planning
+Goal; To finalize detailed implementation plan and finalize architecture roadmap from Phase E
+Perform cost benefit analysis on the work done in Phase E, and a risk assessment.
+Ensure, business value and cost is understood by stakeholders.
+
+# Phase G: Implementation Governance
+Goal: Is to provide architeture governance to the solutions being implemented. The architecture contract (signed) is main output
+How?
+This phase connects architeture and implementation organization. The goal is to ensure that architecture is translated correctly, using organizations project and program methodologies.
+
+# Phase H: Architecture Change Management
+Goal:
+• Ensure that the architecture lifecycle is maintained
+• Ensure that the Architecture Governance Framework is executed
+• Ensure that the enterprise Architecture Capability meets current requirements
+Now changes can be incremental, simplification and re-architecting. Each must be evaluated and defined to plan the next stage.
+
+# Requirement Management (Central circle?)
+It applies to all stages, is central to ADM
+TOGAF does not specify tools or process for requirements, it suggests business scenarios or using specific software.
+Idealy requirement repository should be maintained, in this stage no prioritization is done, thats only in phases.
+
+# ADM Guidelines and Techniques
+
 
 
 # Architecture Content Framework (Part IV)
