@@ -136,6 +136,28 @@ We focus on some techniques only, as questions ask about their definition:
 4. **Risk Management:** This a flow of identifying, classifying, planning mitigation and monitoring. Monitoring is done in Phase G (implementation governance).
 
 # Architecture Governance 
+Governance is how Enterprise architectures are managed and controlled.
+It is established in preliminary phase.
+The Board must assure that ADM is adhered to, this is a key tenet.
+Governance is also super important in G to H phases (implementation and change).
+
+Governance can be local, Global or regional. It can be also Technology Governance, IT Governance and Architecture Governance
+This section has guidelines on how architecture governance should be setup, and why. It also talks about Architecture board, their roles and finally Architecture contracts.
+Architecture contracts:Joint agreements between development partners and sponsors on the deliverables, qualify and fitness for purpose of an architecture
+
+Architecture Compliance: Prepare Project Impact assessment and Performance Architecture compliance review.
+How does a compliance review help (again exam specific needs):
+1. Catch error in project architecture early
+2. Ensure best practices are applied
+3. Identify where standards must also be changed
+4. Identify gaps and communication them.
+
+Architecture Views and Viewpoints (again questions on definition).
+1. Concerns are interests in a system relevant to one or more of its stakeholders. 
+2. An Architecture View is a representation of a system from the perspective of a related set of concerns. A representation of an overall architecture with meaning to
+one or more stakeholders in the system
+3. Architecture Viewpoint defines the perspective from which an architecture view is taken.
+
 
 # Architecture Content Framework (Part IV)
 It gives a list of outputs
