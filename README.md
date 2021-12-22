@@ -152,7 +152,7 @@ How does a compliance review help (again exam specific needs):
 3. Identify where standards must also be changed
 4. Identify gaps and communication them.
 
-Architecture Views and Viewpoints (again questions on definition).
+**Architecture Views and Viewpoints **(again questions on definition be very clear on difference).
 1. Concerns are interests in a system relevant to one or more of its stakeholders. 
 2. An Architecture View is a representation of a system from the perspective of a related set of concerns. A representation of an overall architecture with meaning to
 one or more stakeholders in the system
