@@ -196,3 +196,14 @@ Enterprise
 7. Architecture Requirements Repository: provides a view of all authorized architecture requirements which have been agreed with the Architecture Board
 8. Solutions Landscape: presents an architectural representation of the SBBs supporting the Architecture Landscape which have been planned or deployed by the enterprise
 
+# Exam Experience and Tips
+So I did give the exam last week and passed it. My learning and experience:
+1. For Part I, practicing with books from Ramki (on Amazon) had a bigger impact on preparation levels. Similar questions were available in the exam.
+2. A lot depends on how well you remember ADM steps, Inputs, Outputs. Some areas I have indicated in notes above. I found it hard to remember this stuff all the time. Yet, this part of the exam is about memorization. 
+3. Part II, with an online proctor was harder. There is no option to have a paper to note parts of question to work upon, and the reference PDF, when opened occupied the whole screen including the question. This, minor detail, was frustrating. The questions are wordy so it helps to note key objectives while trying to find answers.
+4. Part II is doable if you understand what to search for where, this is workable again if you practice Ramki Part II, that was a good resource to train yourself.
+5. It is important to remember what deliverables start, develop and get signed off in which phases.
+6. For Part II, Enterprise continuum was also a relevant section and Architecture Principles too.
+
+Drop in a question if you need help prepping.
+I took the exam after a 12-14 hour prep, and skipped sections mainly because I got quite sick and could not put in enough hours.
